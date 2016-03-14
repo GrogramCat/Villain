@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Villain</string>
+    <string name="accessibility_description">微信抢红包助手\n（点击又上角的按钮启动服务）\n\nVillain微信抢红包助手只是我在放寒假回家练手的一个项目，起因Mars老师在公众号发的一篇”优雅的装逼系列——怒抢红包“的文章，所以在网上查资料，完成这个APP。非常感谢Leon的开源项目”CodeBoy微信抢红包外挂“，从中学习了不少。\n和Leon老师一样，拒绝盈利,拒绝盈利，拒绝盈利（重要事情多三遍）。\n\n再多说几句，过年嘛，就是和亲朋好友欢聚一堂的时候，不要老是盯着屏幕抢红包，多和家里人交流感情。多少红包都没有亲情友情值！祝大家新年愉快！</string>
+    <string name="howtouse">第一，确定微信是运行的，通知栏能够显示通知消息，没有屏蔽需要抢红包的个人或者群的消息。\n\n第二，点击启动，根据提示开启抢红包服务。\n\n第三，回到桌面，不要点开微信，并保持手机屏幕长亮（这步很重要）。\n\n第四，完成以上三步就能自动的抢微信红包了（如果不行可能是系统版本过低）。重新启动后，红包数目重新计算。</string>
+    <string name="action_settings">Settings</string>
+</resources>
